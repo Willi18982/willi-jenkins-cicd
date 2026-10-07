@@ -3,3 +3,7 @@ def sumar(a, b):
 
 if __name__ == "__main__":
     print(f"Resultado de la suma 2 + 3: {sumar(2, 3)}")
+
+
+def restar(a, b):
+    return a - b  # ERROR INTENCIONAL: debería ser a - b
