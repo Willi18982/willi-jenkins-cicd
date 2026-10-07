@@ -6,4 +6,4 @@ if __name__ == "__main__":
 
 
 def restar(a, b):
-    return a - b  # ERROR INTENCIONAL: debería ser a - b
+    return a * b  # ERROR INTENCIONAL: debería ser a - b
